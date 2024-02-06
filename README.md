@@ -1,6 +1,4 @@
-# Data-Analysis
-
-### 1. Looker Ecommerce BigQuery Dataset
+## 1. Looker Ecommerce BigQuery Dataset
 캐글 주소 : https://www.kaggle.com/datasets/mustafakeser4/looker-ecommerce-bigquery-dataset
 
             
