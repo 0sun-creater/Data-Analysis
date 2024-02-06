@@ -10,4 +10,5 @@ https://www.kaggle.com/datasets/mustafakeser4/looker-ecommerce-bigquery-dataset
 
 
 
-![image](https://github.com/0sun-creater/Data-Analysis/assets/54173210/b722b46e-b82b-4d0d-9e32-41b95cbcea0a)
+![image]()
+<img src="[이미지주소.png](https://github.com/0sun-creater/Data-Analysis/assets/54173210/b722b46e-b82b-4d0d-9e32-41b95cbcea0a)https://github.com/0sun-creater/Data-Analysis/assets/54173210/b722b46e-b82b-4d0d-9e32-41b95cbcea0a" width="200" height="400"/>
